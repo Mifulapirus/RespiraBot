@@ -1,0 +1,28 @@
+[telegram]
+token_produccion = AAAAAAAAAAABBBBBBBBBBBCCCCCCCCCCCC123456
+token_dev = AAAAAAAAABBBBBBBBBBBBCCCCCCCCCCCCC123456
+timeout=300
+
+[google]
+userDataSheet = RespiraBot Resultados
+sheet_confirmadas = Confirmadas
+sheet_programadas = Programadas
+
+[mensajes]
+no_entendi_1_1 = 🥺 Parece que hoy no es mi dia,
+no_entendi_1_2 = 😅 Vaya, ya lo siento,
+no_entendi_1_3 = 😕 Perdona,
+no_entendi_2_1 = 
+                    ¿Me puedes repetir eso pero usando los botones, por favor? 👇🏼
+no_entendi_2_2 = 
+                    A ver, para que me entere yo, que ando espeso... respóndeme con los botones que así nos vamos a entender mejor. 👇🏼
+no_entendi_2_3 = 
+                    Si yo de verdad que quiero entenderte eh... pero mejor usa los botones. 👇🏼
+                    
+prep_recogida = ⚠️⚠️Importante‼️‼️ tómate la temperatura antes de empezar y en caso de que superes los 37,2 grados o tengas síntomas de tener el virus, por favor no entregues tu material ya que puedes infectar a otras personas.
+                    1️⃣ - Limpieza del material, con agua💧 y jabón🧼
+                    2️⃣ - Desinfección con alguno de los materiales listados en el protocolo, sumergiendo las piezas durante un minuto como mínimo (sanitol vale, la mezcla de lejia a 30ml por litro de agua vale aunque no sea oficial)
+                    3️⃣ - A partir de este punto hay que evitar tocar las piezas con las manos. Lo ideal es que uséis guantes, pero si no tenéis, podéis usar otra bolsa de basura y que vuestras manos están en contacto con la parte exterior y las piezas con la parte interior.
+                    4️⃣ - Secar las piezas para que no queden restos de humedad, activamente usando papel de cocina o al aire en el exterior. En el interior no es aconsejable ya que se pueden depositar las partículas que expulsamos al hablar y el trabajo de desinfección anterior no serviría de nada.
+                    5️⃣ - Introducir los materiales en una bolsa usando guantes (no tocar ni las piezas ni la bolsa con las manos) y cerrar la bolsa. En caso de no disponer de bolsas herméticas tipo ZIP, puedes usar bolsas de basura.
+                    6️⃣ - Introducir las bolsas con piezas en una segunda bolsa usando guantes. Una vez cerrada, esa segunda bolsa no se considerará limpia y desinfectada en el transporte.
